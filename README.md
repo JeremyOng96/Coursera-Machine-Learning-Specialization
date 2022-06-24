@@ -1,6 +1,6 @@
 # Coursera-Machine-Learning-Specialization
 
-My answers for Coursera Machine Learning Specialization.
+This repo contains the updated version of all the assignments/labs (done by me) of Machine Learning Specialization on Coursera by Andrew Ng.
 
 
 <p><b> Link to Machine Learning Specialization: </b></p>
